@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oii! Sou o João Batista 👋
 
 <!--
 **Joaobatista22/Joaobatista22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <a href="https://github.com/Joaobatista22"></a>
+  <img height="160em" src ="https://github-readme-stats.vercel.app/api?username=Joaobatista22&show_icons=true&theme=dark#gh-dark-mode-only"> 
+    <img height="160em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaobatista22&hide_progress=true"> 
+</div>
+<div style ="display: inline-block;">
+<img align="center" alt= "logo-html" width ="40" height ="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="center" alt= "logo-css" width ="40" height ="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="center" alt= "logo-java" width ="40" height ="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+</div>
