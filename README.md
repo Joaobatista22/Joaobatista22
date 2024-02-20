@@ -1,26 +1,33 @@
-### Oii! Sou o João Batista 👋
+# Olá! 👋
 
-<!--
-**Joaobatista22/Joaobatista22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João Batista, sou um desenvolvedor Front-End. Bem-vindo ao meu perfil do GitHub!
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div>
-  <a href="https://github.com/Joaobatista22"></a>
-  <img height="160em" src ="https://github-readme-stats.vercel.app/api?username=Joaobatista22&show_icons=true&theme=dark#gh-dark-mode-only"> 
-    <img height="160em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaobatista22&hide_progress=true"> 
-</div>
-<div style ="display: inline-block;">
-<img align="center" alt= "logo-html" width ="40" height ="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt= "logo-css" width ="40" height ="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" alt= "logo-java" width ="40" height ="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-</div>
+- 🌱 Atualmente trabalho com HTML/CSS, JavaScript, React;
+- 👯 Estou procurando colaborar em projetos de area front-end;
+
+## Linguagens e Ferramentas
+
+Aqui estão algumas das linguagens e ferramentas com as quais trabalho:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-black?logo=css3&style=flat)
+![HTML](https://img.shields.io/badge/-HTML5-black?logo=html5&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=flat)
+![React](https://img.shields.io/badge/-React-black?logo=react&style=flat)
+
+## Estatísticas do GitHub
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Conecte-se comigo
+
+- [LinkedIn](seu_linkedin)
+- [Twitter](seu_twitter)
+- [Website/Blog](seu_website)
+- [E-mail](seu_email)
+
+Não hesite em entrar em contato comigo! Adoraria colaborar em projetos interessantes ou apenas trocar ideias sobre tecnologia.
+
