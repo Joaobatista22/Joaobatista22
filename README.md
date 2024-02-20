@@ -4,6 +4,8 @@ Meu nome é João Batista, sou um desenvolvedor Front-End. Bem-vindo ao meu perf
 
 ## Sobre mim
 
+Sou um entusiasmado programador júnior em transição de carreira, em busca de oportunidades para aplicar e expandir minhas habilidades no mundo da programação. Minha paixão pela resolução de problemas e minha dedicação ao aprendizado contínuo me tornam um candidato ideal para integrar sua equipe.
+
 - 🌱 Atualmente trabalho com HTML/CSS, JavaScript, React;
 - 👯 Estou procurando colaborar em projetos de area front-end;
 
@@ -16,18 +18,15 @@ Aqui estão algumas das linguagens e ferramentas com as quais trabalho:
 ![HTML](https://img.shields.io/badge/-HTML5-black?logo=html5&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=flat)
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=flat)
-
-## Estatísticas do GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=flat)
+![Insomnia](https://img.shields.io/badge/-Insomnia-black?logo=insomnia&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=flat)
 
 ## Conecte-se comigo
 
-- [LinkedIn](seu_linkedin)
-- [Twitter](seu_twitter)
-- [Website/Blog](seu_website)
-- [E-mail](seu_email)
+- [LinkedIn](www.linkedin.com/in/joão-batista-ds)
+- Email (joaobatiista.ds@gmail.com)
 
 Não hesite em entrar em contato comigo! Adoraria colaborar em projetos interessantes ou apenas trocar ideias sobre tecnologia.
 
