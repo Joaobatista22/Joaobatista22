@@ -2,12 +2,18 @@
 
 Meu nome é João Batista, sou um desenvolvedor Front-End. Bem-vindo ao meu perfil do GitHub!
 
-## Sobre mim
+## Sobre
+Sou um Desenvolvedor, fascinado pela tecnologia e suas transformações, decidi buscar novas oportunidades na área. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e constantemente estou explorando novas ferramentas e linguagens. Sou proativo, adaptável e estou ansioso para enfrentar novos desafios e contribuir para soluções inovadoras. Além dos estudos, tenho me dedicado a projetos pessoais.
 
-Sou um entusiasmado programador júnior em transição de carreira, em busca de oportunidades para aplicar e expandir minhas habilidades no mundo da programação. Minha paixão pela resolução de problemas e minha dedicação ao aprendizado contínuo me tornam um candidato ideal para integrar sua equipe.
-
-- 🌱 Atualmente trabalho com HTML/CSS, JavaScript, React;
-- 👯 Estou procurando colaborar em projetos de área front-end;
+Habilidades e Qualidades que Ofereço:
+Forte Base Técnica: Domínio de HTML, CSS e JavaScript, TypeScript essenciais para desenvolvimento Front-End.
+Experiência com React: Capacidade de construir interfaces dinâmicas e interativas utilizando React, um dos frameworks mais requisitados no mercado.
+Aprendizado Contínuo: Comprometido em aprender novas tecnologias e ferramentas, como Docker e PostgreSQL, para expandir minhas competências.
+Colaboração em Equipe: Valorizo o trabalho em equipe e a comunicação clara, habilidades essenciais para integrar e colaborar eficazmente em projetos.
+Resolução de Problemas: Apaixonado por resolver desafios complexos de forma criativa e eficiente.
+Adaptabilidade: Capaz de se adaptar rapidamente a novas ferramentas e metodologias de trabalho, como Scrum e Kanban.
+Mentalidade de Crescimento: Sempre buscando feedback e oportunidades para melhorar minhas habilidades e contribuir de forma mais eficaz em projetos.
+Estou empolgado para contribuir com projetos que desafiem minhas habilidades e que me permitam crescer profissionalmente, sempre com foco na criação de experiências de usuário excepcionais.
 
 ## Linguagens e Ferramentas
 
